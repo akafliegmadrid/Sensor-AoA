@@ -22,4 +22,3 @@ Normalmente, para subir archivos hay que hacer los tres últimos pasos seguidos:
     git add .
     git commit -m "comentario con los cambios realizados"
     git push
-xxxsx
