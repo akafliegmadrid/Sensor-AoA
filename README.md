@@ -4,7 +4,7 @@ Repositorio para el código del equipo encargado del sensor AoA del Akaflieg de 
 ## Integrantes:
 * Andrés Mateo
 * Fran Sansi
-* Pablo Martín Carrilero
+* Pablo Martín 
 * Jorge Velamazán
 * Alejandro Cervigni
 
