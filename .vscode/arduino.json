@@ -1,5 +1,7 @@
 {
     "board": "arduino:avr:nano",
     "configuration": "cpu=atmega328",
-    "sketch": "prueba_inicial/SFE_BMP180_prueba.ino"
+    "sketch": "SFE_BMP180_prueba.ino",
+    "port": "/dev/cu.AirPodsdeacervigni-Wire-1",
+    "programmer": "AVR ISP"
 }
