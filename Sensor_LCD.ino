@@ -65,5 +65,5 @@ void display_pressure(double pressure)
     lcd.print("Presion:");
     
     lcd.setCursor(0,1);
-    lcd.print("> "+String(pressure)+" Pa");
+    lcd.print("> "+String(pressure)+" mbar");
 }
