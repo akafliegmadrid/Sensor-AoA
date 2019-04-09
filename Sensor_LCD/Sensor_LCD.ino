@@ -30,8 +30,8 @@ SFE_BMP180 sensor;
 
 // Variables
 uint8_t readDelay;
-float temperature;
-float pressure;
+double temperature;
+double pressure;
 
 void setup()
 {
